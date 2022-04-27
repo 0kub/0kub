@@ -1,7 +1,7 @@
 
 ### Hello! I'm cub, or cube.
 
-<img src="./legofy2.png" width="400" height="250" align="right"/>
+<img src="./legofy2.png" width="400" height="300" align="right"/>
 
 And i'm currently teaching php and html, and owner of big project like Brick-Hell.
 
