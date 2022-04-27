@@ -1,5 +1,7 @@
-<img src="./lol.png" align="right"/>
+
 ### Hello! I'm cub, or cube.
+<img src="./lol.png" align="right"/>
+
 And i'm currently teaching php and html, and owner of big project like Brick-Hell.
 
 - What i working on? - Some sources, i using them to teach these "php" and "html".
