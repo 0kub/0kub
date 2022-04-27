@@ -17,4 +17,4 @@ And i'm currently teaching php and html, and owner of big project like Brick-Hel
 
 And.. i am a mistake that makes more mistakes.
 
-<img src="./legofy2.png" width="100" height="100">
+<img src="./legofy2.png" width="250" height="250">
