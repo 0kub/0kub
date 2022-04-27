@@ -1,6 +1,5 @@
 
 ### Hello! I'm cub, or cube.
-<img src="./legofy2.png" align="right"/>
 
 And i'm currently teaching php and html, and owner of big project like Brick-Hell.
 
@@ -17,3 +16,5 @@ And i'm currently teaching php and html, and owner of big project like Brick-Hel
 
 
 And.. i am a mistake that makes more mistakes.
+
+<img src="./legofy2.png">
