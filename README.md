@@ -1,6 +1,6 @@
 
 ### Hello! I'm cub, or cube.
-<img src="./lol.png" align="right"/>
+<img src="./legofy2.png" align="right"/>
 
 And i'm currently teaching php and html, and owner of big project like Brick-Hell.
 
