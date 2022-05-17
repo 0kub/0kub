@@ -16,4 +16,7 @@ And i'm currently teaching php and html, and owner of big project like Brick-Hel
 🔭 I’m currently working on:
 - Brick Hell. (http://brick-hell.ml)
 
+👍 Finished Projects:
+- Sairo's ~~deez nuts~~ Skidded Music Bot. (https://sairo.cub-has-injecte.repl.co)
+
 And.. i'm a mistake that makes more mistakes.
