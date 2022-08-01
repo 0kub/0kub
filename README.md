@@ -9,7 +9,7 @@ And i'm currently teaching php and html, and owner of big projects like TDBDNH &
 - I'm not particularly working on something important, but I always try to help someone, or make a new project that will always be annoying.
 
 📫 How to reach me:
-- Discord: cub#9031 (or some discord servers)
+- Discord: pw#9031 (or some discord servers)
 - YouTube: you can't
 - Steam: https://steamcommunity.com/id/realcub
 
