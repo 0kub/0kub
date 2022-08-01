@@ -18,6 +18,6 @@ And i'm currently teaching php and html, and owner of big projects like TDBDNH &
 - OldRBXIcons. (https://github.com/cub-has-injected/OldRBXIcons)
 
 👍 Finished Projects:
-- Sairo's ~~deez nuts~~ Skidded Music Bot for Discord. (https://sairo.cub-has-injecte.repl.co)
+- None.
 
 And.. i'm a mistake that makes more mistakes.
