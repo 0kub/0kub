@@ -3,7 +3,7 @@
 
 <img src="./legofy2.png" width="400" height="300" align="right"/>
 
-And i'm currently teaching php and html, and owner of big projects like TDBDNH & Brick Hell.
+And i'm currently teaching php and html, and owner of big projects like TDBDNH 4(discounted) & Brick Hell.
 
 - What i working on? - Some sources, i using them to teach these "php" and "html".
 - I'm not particularly working on something important, but I always try to help someone, or make a new project that will always be annoying.
