@@ -3,8 +3,6 @@
 
 <img src="./legofy2.png" width="400" height="300" align="right"/>
 
-And i'm currently teaching php and html, and owner of big projects like Brick Hell.
-
 - I'm not particularly working on something important, but I always try to help someone, or make a new project that will always be annoying.
 
 📫 How to reach me:
@@ -13,6 +11,7 @@ And i'm currently teaching php and html, and owner of big projects like Brick He
 - Steam: https://steamcommunity.com/id/realcub
 
 🔭 I’m currently working on:
+- Protoblox. (http://protoblox.tk)
 - Brick Hell. (http://brick-hell.ml)
 - OldRBXIcons. (https://github.com/cub-has-injected/OldRBXIcons)
 
