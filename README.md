@@ -3,7 +3,7 @@
 
 <img src="./legofy2.png" width="400" height="300" align="right"/>
 
-- I'm not particularly working on something important, but I always try to help someone, or make a new project that will always be annoying.
+uhh what is future
 
 📫 How to reach me:
 - Discord: cub឵឵឵#9031
