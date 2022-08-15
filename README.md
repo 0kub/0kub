@@ -3,8 +3,6 @@
 
 <img src="./legofy2.png" width="400" height="300" align="right"/>
 
-## Information:
-
 📫 How to reach me:
 - Discord: cub឵឵឵#9031
 - YouTube: you can't
