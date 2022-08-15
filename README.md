@@ -3,7 +3,7 @@
 
 <img src="./legofy2.png" width="400" height="300" align="right"/>
 
-## Improving the future.
+## Information:
 
 📫 How to reach me:
 - Discord: cub឵឵឵#9031
