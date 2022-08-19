@@ -9,7 +9,6 @@
 - Steam: https://steamcommunity.com/id/realcub
 
 🔭 I’m currently working on:
-- Protoblox. (http://protoblox.tk)
 - Brick Hell. (http://brick-hell.ml)
 - OldRBXIcons. (https://github.com/cub-has-injected/OldRBXIcons)
 
