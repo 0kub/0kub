@@ -4,7 +4,7 @@
 <img src="./legofy2.png" width="400" height="300" align="right"/>
 
 📫 How to reach me:
-- Discord: rc#0248
+- Discord: cub#0248
 - YouTube: you can't
 - Steam: https://steamcommunity.com/id/realcub
 
