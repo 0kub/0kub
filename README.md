@@ -9,7 +9,7 @@
 - Steam: https://steamcommunity.com/id/realcub
 
 🔭 I’m currently working on:
-- Brick Hell. (http://brick-hell.ml)
+- Brick Hell. (http://brick-hell.ml) [80%]
 - OldRBXIcons. (https://github.com/cub-has-injected/OldRBXIcons)
 
 👍 Finished Projects:
