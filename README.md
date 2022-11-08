@@ -5,8 +5,8 @@
 
 📫 How to reach me:
 - Discord: cub#0248
-- YouTube: you can't
-- Steam: https://steamcommunity.com/id/realcub
+- YouTube: https://youtube.com/@thecub
+- Steam: https://steamcommunity.com/id/realcub/
 
 🔭 I’m currently working on:
 - Brick Hell. (http://brick-hell.ml) [80%]
