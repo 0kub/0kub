@@ -1,5 +1,5 @@
 
-### Hello! I'm cub, or cube.
+### Hello! I'm kub.
 
 <img src="./legofy2.png" width="400" height="300" align="right"/>
 
