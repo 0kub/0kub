@@ -1,7 +1,7 @@
 
 ### Hello! I'm kub.
 
-<img src="./legofy2.png" width="350" height="300" align="right"/>
+<img src="./legofy2.png" width="355" height="300" align="right"/>
 
 📫 How to reach me:
 - Discord: kub#4667
