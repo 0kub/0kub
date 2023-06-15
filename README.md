@@ -1,10 +1,10 @@
 
-### Hello! I'm kub.
+### Hello! I'm wendex.
 
 <img src="./legofy2.png" width="359" height="300" align="right"/>
 
 📫 How to reach me:
-- Discord: kub#9999 | kub#4667
+- Discord: wendex#9999 | kube.shi
 - YouTube: https://youtube.com/@thecub
 - Steam: https://steamcommunity.com/id/realcub/
 
