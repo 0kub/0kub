@@ -8,4 +8,4 @@
 - YouTube: https://youtube.com/@thecub
 - Steam: https://steamcommunity.com/id/realcub/
 
-![kub's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendexx&show_icons=true&theme=synthwave)
+![kub's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendoxc&show_icons=true&theme=synthwave)
