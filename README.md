@@ -1,5 +1,5 @@
 
-### Hello! I'm wendox.
+### Hello! I'm wendox now.
 
 <img src="./legofy2.png" width="359" height="300" align="right"/>
 
