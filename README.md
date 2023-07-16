@@ -6,4 +6,4 @@
 📫 How to reach me:
 - Steam: https://steamcommunity.com/id/realcub/
 
-![kub's GitHub stats](https://github-readme-stats.vercel.app/api?username=cub-has-injected&show_icons=true&theme=synthwave)
+![kub's GitHub stats](https://github-readme-stats.vercel.app/api?username=mindtheice&show_icons=true&theme=synthwave)
