@@ -1,5 +1,5 @@
 
-### Hello! I'm kub.
+### Hello! I'm an Ice now.
 
 <img src="./legofy2.png" width="359" height="300" align="right"/>
 
