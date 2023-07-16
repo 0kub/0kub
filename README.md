@@ -5,6 +5,6 @@
 
 📫 How to reach me:
 - Discord: **I don't share my discord anymore.**
-- Steam: https://steamcommunity.com/id/realcub/
+- Steam: https://steamcommunity.com/id/mindtheice/
 
 ![kub's GitHub stats](https://github-readme-stats.vercel.app/api?username=mindtheice&show_icons=true&theme=synthwave)
