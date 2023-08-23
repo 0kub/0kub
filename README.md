@@ -1,9 +1,7 @@
 
-### Hello! I'm now a Forknown! or Fork & own.
-
-*If you can't access old repositories, just change "cub-has-injected" to "forknown"*
+### Hello! I'm a cube.
 
 📫 How to reach me:
-- Steam: https://steamcommunity.com/id/forknown/
+- Steam: https://steamcommunity.com/id/kubc/
 
-![kub's GitHub stats](https://github-readme-stats.vercel.app/api?username=forknown&show_icons=true&theme=synthwave)
+![kub's GitHub stats](https://github-readme-stats.vercel.app/api?username=cub-has-injected&show_icons=true&theme=synthwave)
